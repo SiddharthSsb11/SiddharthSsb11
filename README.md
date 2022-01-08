@@ -22,6 +22,7 @@
 <!-- ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&theme=algolia" alt="SiddharthSsb11" /></p>  -->
+<br/>
 
 # 🛠️ My Skills
 
@@ -120,10 +121,12 @@
     <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
     &emsp; 
 </p>
+<br/>
 
-# 📊 Github Stats (Expand to View)
-
+<details> 
+  <summary><b>💻 Github Stats (Expand to View)</b></summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SiddharthSsb11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="SiddharthSsb11" /> </p>
-<br>
+
+</details>
