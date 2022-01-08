@@ -5,6 +5,7 @@
 <hr/>
 
 ### Glad to See you Here !
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddharthSsb11&label=Siddharth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 <hr/>
 <!-- <h4 align="left">I am young, dumb and broke but yet a passionate full-stack developer. A self-motivated tech & autmobile enthusiaist and always up to learn new things. I like to Code, Design, Innovate and Experiment. As a developer I enjoy using my obsessive attention to detail and my unequivocal love for making things that might brighten up the day of the end user.</h4>
@@ -18,7 +19,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can play Tabla.
 
-
 <!-- ## 🔥 Streak Stats
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&theme=algolia" alt="SiddharthSsb11" /></p>  -->
@@ -27,8 +27,7 @@
 
 ### 👉 Programming languages
 
-<p align="left"> 
-    &emsp; 
+<p align="left">  
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     &emsp;
     <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -39,7 +38,7 @@
     &emsp;
     <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
     &emsp; 
-</p>  
+</p>
 
 ### 👉 Frontend Development
 
@@ -76,6 +75,7 @@
 </p>
 
 ### 👉 Backlend Development
+
 <p align="left"> 
     &emsp; 
     <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -83,4 +83,43 @@
     <img alt="ExpressJs" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
     &emsp; 
     <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-</p> 
+    &emsp; 
+</p>
+
+### 👉 Databases & Cloud
+
+<p align="left"> 
+    &emsp; 
+    <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    &emsp;
+    <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+    &emsp;
+    <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    &emsp; 
+    <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+    &emsp; 
+    <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+    &emsp; 
+</p>
+
+### 👉 Software & Tools
+
+<p align="left"> 
+    &emsp; 
+    <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+    &emsp;
+    <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
+    &emsp;
+    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+    &emsp;
+    <img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+    &emsp; 
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    &emsp; 
+    <img alt="Shell-Script" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
+    &emsp; 
+    <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
+    &emsp;
+    <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
+    &emsp; 
+</p>
