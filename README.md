@@ -123,6 +123,7 @@
 
 # 📊 Github Stats (Expand to View)
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&show_icons=true&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SiddharthSsb11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="nparashar150" /> </p>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SiddharthSsb11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="SiddharthSsb11" /> </p>
 <br>
