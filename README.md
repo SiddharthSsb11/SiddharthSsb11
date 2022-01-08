@@ -13,15 +13,15 @@
 ## Talking about Personal Stuffs:
 
 - 🔭 I probably just contributed to some repo.
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking up for good Full-Stack job opportunities
+- 🌱 I’m currently learning everything 🤣, specially improving my DSA skills.
+- 👯 I’m looking for good Full-Stack Developer job opportunities
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can play Tabla.
 
 
 <!-- ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&theme=algolia" alt="candida18" /></p>  -->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&theme=algolia" alt="SiddharthSsb11" /></p>  -->
 
 ## 🛠️ My Skills
 
@@ -36,5 +36,38 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     &emsp;
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    &emsp;
+    <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
     &emsp; 
 </p>  
+
+### 👉 Frontend Development
+<p align="left"> 
+   &emsp; 
+   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+   &emsp;
+   <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+   &emsp;
+   <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+   &emsp; 
+   <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+   &emsp; 
+   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+    &emsp; 
+   <img alt="Chakra-UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
+    &emsp; 
+   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+    &emsp; 
+   <img alt="Styled-Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+    &emsp; 
+   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    &emsp; 
+   <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+    &emsp; 
+   <img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+    &emsp; 
+   <img alt="Chart js" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
+    &emsp; 
+   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
+    &emsp;
+</p>
