@@ -23,9 +23,9 @@
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&theme=algolia" alt="SiddharthSsb11" /></p>  -->
 
-## 🛠️ My Skills
+# 🛠️ My Skills
 
-### 👉 Programming languages
+## 👉 Programming languages
 
 <p align="left">  
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -40,7 +40,7 @@
     &emsp; 
 </p>
 
-### 👉 Frontend Development
+## 👉 Frontend Development
 
 <p align="left"> 
    
@@ -74,7 +74,7 @@
     &emsp;
 </p>
 
-### 👉 Backlend Development
+## 👉 Backlend Development
 
 <p align="left"> 
     &emsp; 
@@ -86,7 +86,7 @@
     &emsp; 
 </p>
 
-### 👉 Databases & Cloud
+## 👉 Databases & Cloud
 
 <p align="left"> 
     &emsp; 
@@ -102,7 +102,7 @@
     &emsp; 
 </p>
 
-### 👉 Software & Tools
+## 👉 Software & Tools
 
 <p align="left"> 
     &emsp; 
