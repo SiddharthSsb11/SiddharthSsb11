@@ -7,8 +7,16 @@
 ### Glad to See you Here !
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddharthSsb11&label=Siddharth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 <hr/>
-<h4 align="left">I am young, dumb and broke but yet a passionate full-stack developer. A self-motivated tech & autmobile enthusiaist and always up to learn new things. I like to Code, Design, Innovate and Experiment. As a developer I enjoy using my obsessive attention to detail and my unequivocal love for making things that might brighten up the day of the end user.</h4>
-<br>
+<!-- <h4 align="left">I am young, dumb and broke but yet a passionate full-stack developer. A self-motivated tech & autmobile enthusiaist and always up to learn new things. I like to Code, Design, Innovate and Experiment. As a developer I enjoy using my obsessive attention to detail and my unequivocal love for making things that might brighten up the day of the end user.</h4>
+<br> -->
+
+## Talking about Personal Stuffs:
+
+- 🔭 I probably just contributed to some repo.
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking up for good Full-Stack job opportunities
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I can play Tabla.
 
 
 <!-- ## 🔥 Streak Stats
