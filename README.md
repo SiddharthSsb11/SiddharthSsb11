@@ -130,7 +130,7 @@
 <br/>
 
 
-## 🙋‍♀️ Let's Connect
+# 🙋‍♀️ Let's Connect
 
 <p align="center">
     <a href=""><img src="https://img.icons8.com/doodle/50/000000/user-male-circle.png" alt="Website" alt="Portfolio"/></a>
