@@ -22,7 +22,8 @@
 <details> 
   <summary><b>💻 Github Stats (Expand to View)</b></summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SiddharthSsb11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="SiddharthSsb11" /> </p>
 
 </details>
@@ -135,7 +136,6 @@
     <a href="" target="_blank"><img src="https://img.icons8.com/doodle/50/000000/user-male-circle.png" alt="Website" alt="Portfolio"/></a>
     <a href="https://dev.to/siddharthssb11" target="_blank"><img src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" alt="Blogs"/></a>
 	<a href="mailto:siddharthsb101@gmail.com" target="_blank"><img src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/SiddharthSsb11" target="_blank"><img src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://linkedin.com/in/siddharthsingh11" target="_blank"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/siddharth_ssb" target="_blank"><img src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/></a>
 	<a href="https://twitter.com/Siddharth_SSB" target="_blank"><img src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
