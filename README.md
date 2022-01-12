@@ -17,16 +17,11 @@
 - ⚡ Fun fact: I can play Tabla.
 <hr/>
 
-<details> 
-  <summary><b>💻 Github Stats (Expand to View)</b></summary>
+<!-- <details> 
+  <summary><b>💻 Github Stats (Expand to View)</b></summary> -->
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" /> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>
-<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SiddharthSsb11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="SiddharthSsb11" /> </p>
-
-</details>
-<hr/>
-
+<!-- </details>
+<hr/> -->
 
 # 🛠️ My Skills
 
@@ -127,8 +122,15 @@
 </p>
 <br/>
 
+# 💻 Github Stats
+<br/>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" /> 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>
+<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SiddharthSsb11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="SiddharthSsb11" /> </p>
 
-# 🙋‍♀️ Let's Connect
+<hr/>
+
+# 🙋Let's Connect
 
 <p align="center">
     <a href="" target="_blank"><img src="https://img.icons8.com/doodle/50/000000/user-male-circle.png" alt="Website" alt="Portfolio"/></a>
