@@ -8,8 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddharthSsb11&label=Siddharth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 <hr/>
-<!-- <h4 align="left">I am young, dumb and broke but yet a passionate full-stack developer. A self-motivated tech & autmobile enthusiaist and always up to learn new things. I like to Code, Design, Innovate and Experiment. As a developer I enjoy using my obsessive attention to detail and my unequivocal love for making things that might brighten up the day of the end user.</h4>
-<br> -->
 
 ## Talking about Personal Stuffs:
 
@@ -18,15 +16,15 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I can play Tabla.
 <hr/>
-
+<!-- 
 <details> 
-  <summary><b>💻 Github Stats (Expand to View)</b></summary>
+  <summary><b>💻 Github Stats (Expand to View)</b></summary> -->
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SiddharthSsb11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="SiddharthSsb11" /> </p>
 
-</details>
+<!-- </details> -->
 <hr/>
 
 
