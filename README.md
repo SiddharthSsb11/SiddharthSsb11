@@ -22,8 +22,9 @@
 
 <!-- </details>
 <hr/> -->
-
-# 🛠️ My Skills
+<details>
+	
+<summary><b>⚒️ My skiils (Expand to View)</b></summary>
 
 ## 👉 Programming languages
 
@@ -120,6 +121,8 @@
     <img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
     &emsp; 
 </p>
+	
+</details>	
 <br/>
 <hr/>
 
