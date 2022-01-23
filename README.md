@@ -3,12 +3,10 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Fullstack+Developer;Converting+Words+into+Code;Arsenal+Fan+!!+YaGunnersYa+!!;You%20just%20killed%20the+cat!!&center=true&width=500&height=50&font=georgia"></a>
 </p>
 <hr/>
-
 ## Glad to See you Here !
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddharthSsb11&label=Siddharth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 <hr/>
-
 
 <p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SiddharthSsb11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="SiddharthSsb11" /> </p>
 
