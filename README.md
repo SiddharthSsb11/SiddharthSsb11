@@ -29,9 +29,9 @@
 <hr/> -->
 
 	
-# ⚒️ My skiils
+## ⚒️ My skiils
 
-## 👉 Programming languages
+### 👉 Programming languages
 
 <p align="left">  
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -46,7 +46,7 @@
     &emsp; 
 </p>
 
-## 👉 Frontend Development
+### 👉 Frontend Development
 
 <p align="left"> 
    
@@ -80,7 +80,7 @@
     &emsp;
 </p>
 
-## 👉 Backend Development
+### 👉 Backend Development
 
 <p align="left">  
     <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
@@ -91,7 +91,7 @@
     &emsp; 
 </p>
 
-## 👉 Databases & Cloud
+### 👉 Databases & Cloud
 
 <p align="left"> 
     <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
@@ -106,7 +106,7 @@
     &emsp; 
 </p>
 
-## 👉 Software & Tools
+### 👉 Software & Tools
 
 <p align="left">  
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
@@ -132,7 +132,7 @@
 <hr/>
 
 
-# 💻 Github Stats
+## 💻 Github Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" /> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>
@@ -140,7 +140,7 @@
 
 <hr/>
 
-# 🙋Let's Connect
+## 🙋Let's Connect
 
 <p align="center">
     <a href="" target="_blank"><img src="https://img.icons8.com/doodle/50/000000/user-male-circle.png" alt="Website" alt="Portfolio"/></a>
