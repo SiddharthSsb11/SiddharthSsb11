@@ -34,8 +34,6 @@
 
 <p align="left">  
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
-    &emsp;
-    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     &emsp; 
     <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     &emsp;
@@ -149,3 +147,14 @@
 	<a href="https://twitter.com/Siddharth_SSB" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
 	
 </p>
+
+### Pins
+
+<a href="https://github.com/SiddharthSsb11/Portfolio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=Portfolio&theme=buefy" />
+</a>
+<a href="https://github.com/SiddharthSsb11/game-battleship">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=game-battleship&theme=buefy" />
+</a>
+
+<br />
