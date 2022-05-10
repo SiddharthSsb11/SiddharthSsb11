@@ -151,10 +151,10 @@
 ### Pins
 
 <a href="https://github.com/SiddharthSsb11/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=Portfolio&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=Portfolio&theme=tokyonight" />
 </a>
 <a href="https://github.com/SiddharthSsb11/game-battleship">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=game-battleship&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=game-battleship&theme=tokyonight" />
 </a>
 
 <br />
