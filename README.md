@@ -39,8 +39,6 @@
     &emsp;
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
     &emsp;
-    <img alt="JSON" src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-    &emsp; 
 </p>
 
 ### 👉 Frontend Development
