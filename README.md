@@ -18,6 +18,7 @@
 - 🌱 I’m currently learning everything 🤣, Jack of all & Master of some 😜.
 - 👯 I’m looking for good Full-Stack Developer job opportunities.
 - 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🧑‍💻 Focused on improving my problem solving skills and working on my DSA knowledge.
 - ⚡ Fun fact: I can play Tabla.
 <hr/>
 
