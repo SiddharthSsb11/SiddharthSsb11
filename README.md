@@ -72,8 +72,8 @@
    &emsp;
     <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
     &emsp; 
-   <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
-    &emsp;
+   <!--<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
+    &emsp; -->
 </p>
 
 ### 👉 Backend Development
