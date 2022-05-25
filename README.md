@@ -69,9 +69,7 @@
    <!--<img alt="Next" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     &emsp; -->
    <img alt="Chart js" src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-   &emsp;
-    <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
-    &emsp; 
+   &emsp; 
    <!--<img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
     &emsp; -->
 </p>
@@ -85,6 +83,8 @@
     &emsp; 
     <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
     &emsp; 
+    <img alt="Socket.IO" src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white">
+    &emsp;
 </p>
 
 ### 👉 Databases & Cloud
