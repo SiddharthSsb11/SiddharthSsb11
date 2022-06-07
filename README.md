@@ -21,6 +21,7 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects.
 - 🧑‍💻 Focused on improving my problem solving skills and working on my DSA knowledge.
 - ⚡ Fun fact: I can play Tabla.
+
 <hr/>
 
 
