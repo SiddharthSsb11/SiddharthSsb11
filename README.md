@@ -122,9 +122,6 @@
     &emsp;
     <!--<img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
     &emsp;-->
-	
-    <!--<img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">
-    &emsp;-->
 </p>
 	
 
