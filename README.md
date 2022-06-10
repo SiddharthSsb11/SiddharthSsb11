@@ -38,8 +38,10 @@
 
 ### 👉 Programming languages
 
-<p align="left">  
-  
+<p align="left"> 
+    <!--<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    &emsp;--> 
+    &emsp;
     <img alt="JavaScript" src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     &emsp;
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
