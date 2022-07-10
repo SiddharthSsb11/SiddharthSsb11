@@ -51,7 +51,7 @@
     &emsp;
 </p>
 
-### 👉 Frontend Development
+### 👉 Frontend
 
 <p align="left"> 
    
