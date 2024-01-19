@@ -137,7 +137,7 @@
 
 ## 💻 Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" /> 
+<!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" />-->
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>-->
 
 <hr/>
