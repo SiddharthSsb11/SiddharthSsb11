@@ -153,14 +153,4 @@
 	<a href="https://twitter.com/Siddharth_SSB" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
 	
 </p>
-
-### Pins
-
-<a href="https://github.com/SiddharthSsb11/Portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=Portfolio&theme=tokyonight" />
-</a>
-<a href="https://github.com/SiddharthSsb11/game-battleship">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=game-battleship&theme=tokyonight" />
-</a>
-
 <br />
