@@ -16,11 +16,11 @@
 <hr/>-->
 
 
-## Talking about Personal Stuffs:
+## Briefing...:
 
 - 🌱 I’m currently learning everything, Jack of all & Master of some.
-- 🥅 2022 Goals: Contribute more to Open Source projects.
-- 🧑‍💻 Focused on improving my problem solving skills and working on my DSA.
+- 🥅 Contribute more to Open Source projects.
+- 🧑‍💻 Focused on improving my problem-solving skills and working on my DSA, React-Native too.
 - ⚡ Fun fact: I can play Tabla.
 <!-- - 👯 I’m looking for good Full-Stack Developer job opportunities. -->
 
@@ -37,7 +37,7 @@
 <hr/> -->
 
 	
-## ⚒️ My skiils
+## ⚒️ My skills
 
 ### 👉 Programming languages
 
