@@ -16,7 +16,7 @@
 <hr/>-->
 
 
-## Briefing...:
+## Briefing :
 
 - 🌱 I’m currently learning everything, Jack of all & Master of some.
 - 🥅 Contribute more to Open Source projects.
