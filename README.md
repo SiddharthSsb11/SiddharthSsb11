@@ -133,6 +133,10 @@
 
 <hr/>
 
+### 👉 React Native Cross-Platform Mobile Apps
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-fintech)](https://github.com/SiddharthSsb11/rn-fintech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-share)](https://github.com/SiddharthSsb11/rn-share)
+
 
 
 <!-- ## 💻 Github Stat-->
@@ -143,7 +147,7 @@
 ## 🙋Let's Connect
 
 <p align="center">
-    <a href="https://portfolio-ssb.netlify.app/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/user-male-circle.png" alt="Website" alt="Portfolio"/></a>
+    <a href="https://siddharth-teal.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/user-male-circle.png" alt="Website" alt="Portfolio"/></a>
     <a href="https://dev.to/siddharthssb11" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" alt="Blogs"/></a>
 	<a href="mailto:siddharthsb101@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/siddharthsingh11" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn"/></a>
