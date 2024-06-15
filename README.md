@@ -133,12 +133,6 @@
 
 <hr/>
 
-### 👉 React Native Cross-Platform Mobile Apps
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-fintech)](https://github.com/SiddharthSsb11/rn-fintech)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-share)](https://github.com/SiddharthSsb11/rn-share)
-
-
-
 <!-- ## 💻 Github Stat-->
 
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" />-->
@@ -156,3 +150,8 @@
 	
 </p>
 <br />
+<hr/>
+
+### 👉 React Native Cross-Platform Mobile Apps
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-fintech)](https://github.com/SiddharthSsb11/rn-fintech)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-share)](https://github.com/SiddharthSsb11/rn-share)
