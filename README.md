@@ -63,8 +63,8 @@
    &emsp;--> 
    <img alt="Material UI" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
    &emsp; 
-   <!--<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-    &emsp; --> 
+   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+   &emsp;
    <img alt="Chakra-UI" src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white"/>
     &emsp; &emsp; 
    <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -113,7 +113,7 @@
     &emsp;--> 
 </p>
 
-### 👉 Software & Tools
+### 👉 Platform & Tools
 
 <p align="left">  
     <!--<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">-->
@@ -126,8 +126,19 @@
     &emsp; 
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     &emsp;
-    <!--<img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
-    &emsp;-->
+    <img alt="Android-Studio" src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
+    &emsp;
+    <img alt="X-Code" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
+    &emsp;
+    <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
+    &emsp;
+    <img alt="Bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
+    &emsp;
+    <img alt="Jira" src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
+    &emsp;
+    <img alt="Confluence" src="https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white">
+    &emsp;
+
 </p>
 	
 
@@ -145,9 +156,7 @@
     <a href="https://dev.to/siddharthssb11" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" alt="Blogs"/></a>
 	<a href="mailto:siddharthsb101@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://linkedin.com/in/siddharthsingh11" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/siddharth_ssb" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/Siddharth_SSB" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>
-	
+	<a href="https://www.instagram.com/siddharth_ssb" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/></a>	
 </p>
 <br />
 <hr/>
