@@ -5,10 +5,10 @@
 <hr/>
 
 
-##  Glad to See you Here !!
+<!--##  Glad to See you Here !!
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddharthSsb11&label=Siddharth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
-<hr/>
+<hr/>-->
 
 
 <!--<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SiddharthSsb11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="SiddharthSsb11" /> </p>
