@@ -1,7 +1,7 @@
 <h1 align="center">Namaste , I'm Siddharth Singh Bhadauriya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
+<!--<p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Converting+Words+into+Code;Arsenal+Fan+!!+YaGunnersYa+!!;You%20just%20killed%20the+cat!!&center=true&width=500&height=50&font=georgia"></a>
-</p>
+</p>-->
 <!--##  Glad to See you Here !!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddharthSsb11&label=Siddharth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 <hr/>-->
@@ -135,6 +135,7 @@
 </p>
 <br />
 <hr/>-->
+
 ### 👉 React Native Cross-Platform Mobile Apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-fintech)](https://github.com/SiddharthSsb11/rn-fintech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-share)](https://github.com/SiddharthSsb11/rn-share)
