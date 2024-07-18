@@ -16,19 +16,13 @@
 <hr/>-->
 
 
-## Briefing :
+<!--## Briefing :
 
 - 🌱 I’m currently learning everything, Jack of all & Master of some.
 - 🥅 Contribute more to Open Source projects.
 - 🧑‍💻 Focused on improving my problem-solving skills and working on my DSA, React-Native too.
 - ⚡ Fun fact: I can play Tabla.
 <!-- - 👯 I’m looking for good Full-Stack Developer job opportunities. -->
-
-<hr/>
-
-
-
-
 
 <!-- <details> 
   <summary><b>💻 Github Stats (Expand to View)</b></summary> -->
