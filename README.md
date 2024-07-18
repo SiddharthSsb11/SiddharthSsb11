@@ -2,35 +2,22 @@
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Converting+Words+into+Code;Arsenal+Fan+!!+YaGunnersYa+!!;You%20just%20killed%20the+cat!!&center=true&width=500&height=50&font=georgia"></a>
 </p>
-<hr/>
-
-
 <!--##  Glad to See you Here !!
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SiddharthSsb11&label=Siddharth's%20Profile%20Views%20&color=dc143c&style=plastic" alt="candida18" /> </p>
 <hr/>-->
-
-
 <!--<p align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=SiddharthSsb11&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=false" alt="SiddharthSsb11" /> </p>
-
 <hr/>-->
-
-
 <!--## Briefing :
-
-- 🌱 I’m currently learning everything, Jack of all & Master of some.
+ 🌱 I’m currently learning everything, Jack of all & Master of some.
 - 🥅 Contribute more to Open Source projects.
 - 🧑‍💻 Focused on improving my problem-solving skills and working on my DSA, React-Native too.
 - ⚡ Fun fact: I can play Tabla.
-<!-- - 👯 I’m looking for good Full-Stack Developer job opportunities. -->
 
+<!-- - 👯 I’m looking for good Full-Stack Developer job opportunities. -->
 <!-- <details> 
   <summary><b>💻 Github Stats (Expand to View)</b></summary> -->
-
 <!-- </details>
 <hr/> -->
-
-	
 ## ⚒️ My skills
 
 ### 👉 Programming Languages
@@ -134,17 +121,11 @@
     &emsp;
 
 </p>
-	
-
 <hr/>
-
 <!-- ## 💻 Github Stat-->
-
 <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SiddharthSsb11&count_private=true&show_icons=true&hide_border=true&theme=tokyonight&hide=prs,issues" alt="SiddharthSsb11" />-->
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiddharthSsb11&hide_border=true&theme=tokyonight" alt="SiddharthSsb11" /> </p>-->
-
-## 🙋Let's Connect
-
+<!--## 🙋Let's Connect
 <p align="center">
     <a href="https://siddharth-teal.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/user-male-circle.png" alt="Website" alt="Portfolio"/></a>
     <a href="https://dev.to/siddharthssb11" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/48/000000/blogger--v1.png" alt="Blogs"/></a>
@@ -153,8 +134,7 @@
 	<a href="https://www.instagram.com/siddharth_ssb" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/></a>	
 </p>
 <br />
-<hr/>
-
+<hr/>-->
 ### 👉 React Native Cross-Platform Mobile Apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-fintech)](https://github.com/SiddharthSsb11/rn-fintech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-share)](https://github.com/SiddharthSsb11/rn-share)
