@@ -137,4 +137,3 @@
 ### 👉 React Native Cross-Platform Mobile Apps
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-fintech)](https://github.com/SiddharthSsb11/rn-fintech)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=rn-share)](https://github.com/SiddharthSsb11/rn-share)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SiddharthSsb11&repo=expense-manager)](https://github.com/SiddharthSsb11/expense-manager)
