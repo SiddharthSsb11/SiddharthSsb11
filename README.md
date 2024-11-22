@@ -1,4 +1,4 @@
-<h1 align="center">Namaste , I'm Siddharth Singh Bhadauriya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Namaste , I'm Siddharth Singh Bhadoriya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Developer;Converting+Words+into+Code;Arsenal+Fan+!!+YaGunnersYa+!!;You%20just%20killed%20the+cat!!&center=true&width=500&height=50&font=georgia"></a>
 </p>
